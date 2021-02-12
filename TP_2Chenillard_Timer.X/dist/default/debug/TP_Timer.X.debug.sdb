@@ -1,0 +1,55 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F46K22 ]
+[d frameptr 4065 ]
+"4 /opt/microchip/xc8/v2.31/pic/sources/c99/common/fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 /opt/microchip/xc8/v2.31/pic/sources/c99/common/float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 /opt/microchip/xc8/v2.31/pic/sources/c99/common/ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 /opt/microchip/xc8/v2.31/pic/sources/c99/common/ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 /opt/microchip/xc8/v2.31/pic/sources/c99/common/ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 /opt/microchip/xc8/v2.31/pic/sources/c99/common/ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 /opt/microchip/xc8/v2.31/pic/sources/c99/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 /opt/microchip/xc8/v2.31/pic/sources/c99/common/sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 /opt/microchip/xc8/v2.31/pic/sources/c99/common/sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 /opt/microchip/xc8/v2.31/pic/sources/c99/common/Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 /opt/microchip/xc8/v2.31/pic/sources/c99/common/Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"83 /home/paul/Documents/ISEN/FPGA/TP_Timer.X/main.c
+[v _main main `(v  1 e 1 0 ]
+"75 /home/paul/Documents/ISEN/FPGA/TP_Timer.X/timer.c
+[v _timer_1sec timer_1sec `(v  1 e 1 0 ]
+"7672 /opt/microchip/mplabx/v5.45/packs/Microchip/PIC18F-K_DFP/1.4.87/xc8/pic/include/proc/pic18f46k22.h
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+"8282
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"16129
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+"16206
+[v _TMR0L TMR0L `VEuc  1 e 1 @4054 ]
+"16226
+[v _TMR0H TMR0H `VEuc  1 e 1 @4055 ]
+"20288
+[v _TMR0IF TMR0IF `VEb  1 e 0 @32658 ]
+"83 /home/paul/Documents/ISEN/FPGA/TP_Timer.X/main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"97
+} 0
+"75 /home/paul/Documents/ISEN/FPGA/TP_Timer.X/timer.c
+[v _timer_1sec timer_1sec `(v  1 e 1 0 ]
+{
+"83
+} 0
